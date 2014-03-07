@@ -1,0 +1,7 @@
+book.txt
+
+add some line
+
+aghsa some new line
+
+tesr
