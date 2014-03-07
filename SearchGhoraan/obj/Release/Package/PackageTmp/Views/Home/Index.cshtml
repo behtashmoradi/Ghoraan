@@ -1,0 +1,21 @@
+﻿@model SearchGhoraan.Models.SearchData
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Search Ghooran By Keyword</h1>
+    <p class="lead">Enter a word and It shows all occurance of that word in the holy Ghoraan</p>
+</div>
+
+<div class="row">
+    <div class="col-md-10">
+        @using(Html.BeginForm("SearchByKeyword","Ghoraan"))
+        {
+            @Html.LabelFor(m => m.Word, new { @class = "col-md-2 control-label" })
+            @Html.TextBoxFor(m => m.Word, new { @class = "form-control" })
+            <input type="submit" value="Go" />
+            <input type="reset" title="Reset" />
+         }
+    </div>
+</div>

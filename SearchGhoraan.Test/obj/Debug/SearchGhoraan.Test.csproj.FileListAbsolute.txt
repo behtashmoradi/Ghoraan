@@ -1,0 +1,7 @@
+D:\Data\behtash.visualstudio.com\SearchGhoraan\SearchGhoraan.Test\bin\Debug\SearchGhoraan.Test.dll
+D:\Data\behtash.visualstudio.com\SearchGhoraan\SearchGhoraan.Test\bin\Debug\SearchGhoraan.Test.pdb
+D:\Data\behtash.visualstudio.com\SearchGhoraan\SearchGhoraan.Test\obj\Debug\SearchGhoraan.Test.dll
+D:\Data\behtash.visualstudio.com\SearchGhoraan\SearchGhoraan.Test\obj\Debug\SearchGhoraan.Test.pdb
+D:\Data\behtash.visualstudio.com\SearchGhoraan\SearchGhoraan.Test\bin\Debug\nunit.framework.dll
+D:\Data\behtash.visualstudio.com\SearchGhoraan\SearchGhoraan.Test\bin\Debug\nunit.framework.xml
+D:\Data\behtash.visualstudio.com\SearchGhoraan\SearchGhoraan.Test\obj\Debug\SearchGhoraan.Test.csprojResolveAssemblyReference.cache

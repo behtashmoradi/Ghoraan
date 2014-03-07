@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchGhoraan", "SearchGhoraan\SearchGhoraan.csproj", "{A65723D7-14E3-478B-BA9E-E8250BD5EEF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchGhoraan.Test", "SearchGhoraan.Test\SearchGhoraan.Test.csproj", "{8F78B1C0-4B72-4DAD-9D41-818F77614EEC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{D99B0835-3D32-4691-96BF-E86EB0FEFAB5}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A65723D7-14E3-478B-BA9E-E8250BD5EEF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A65723D7-14E3-478B-BA9E-E8250BD5EEF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A65723D7-14E3-478B-BA9E-E8250BD5EEF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A65723D7-14E3-478B-BA9E-E8250BD5EEF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F78B1C0-4B72-4DAD-9D41-818F77614EEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F78B1C0-4B72-4DAD-9D41-818F77614EEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F78B1C0-4B72-4DAD-9D41-818F77614EEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F78B1C0-4B72-4DAD-9D41-818F77614EEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

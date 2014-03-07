@@ -1,0 +1,41 @@
+﻿@model IEnumerable<SearchGhoraan.Models.SearchResult>
+
+@{
+    ViewBag.Title = "SearchByKeyword";
+}
+
+<h2>Search By Keyword</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ChapterId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ItemId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Text)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.ChapterId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.sectionId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Text)
+        </td>
+        <td>
+            @Html.ActionLink("Detail","SectionDetail", "Ghoraan", new { id=item.sectionId },null) 
+        </td>
+    </tr>
+}
+
+</table>
