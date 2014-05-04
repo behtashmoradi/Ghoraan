@@ -19,6 +19,7 @@
     <Property Name="Keyword1" Type="String" MaxLength="500" FixedLength="false" Unicode="true" Nullable="false" />
     <NavigationProperty Name="Chapter" Relationship="Self.FK_Keyword_Chapter" FromRole="Keyword" ToRole="Chapter" />
     <Property Name="NormalizedKeyword" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="NormalizedFarisKeyword" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
   </EntityType>
   <Association Name="FK_Keyword_Chapter">
     <End Role="Chapter" Type="Self.Chapter" Multiplicity="1" />

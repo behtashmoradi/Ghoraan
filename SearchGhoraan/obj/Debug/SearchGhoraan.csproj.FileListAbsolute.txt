@@ -106,3 +106,4 @@ D:\Data\Git\Ghoraan\SearchGhoraan\bin\Microsoft.Owin.Security.Twitter.xml
 D:\Data\Git\Ghoraan\SearchGhoraan\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 D:\Data\Git\Ghoraan\SearchGhoraan\obj\Debug\SearchGhoraan.dll
 D:\Data\Git\Ghoraan\SearchGhoraan\obj\Debug\SearchGhoraan.pdb
+D:\Data\Git\Ghoraan\SearchGhoraan\obj\Debug\SearchGhoraan.csprojResolveAssemblyReference.cache

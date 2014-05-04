@@ -17,3 +17,13 @@ D:\Data\Git\SearchGhoraan\RunTextNormalizer\RunTextNormalizer\bin\Debug\EntityFr
 D:\Data\Git\SearchGhoraan\RunTextNormalizer\RunTextNormalizer\obj\Debug\RunTextNormalizer.csprojResolveAssemblyReference.cache
 D:\Data\Git\SearchGhoraan\RunTextNormalizer\RunTextNormalizer\obj\Debug\RunTextNormalizer.exe
 D:\Data\Git\SearchGhoraan\RunTextNormalizer\RunTextNormalizer\obj\Debug\RunTextNormalizer.pdb
+D:\Data\Git\Ghoraan\RunTextNormalizer\RunTextNormalizer\bin\Debug\RunTextNormalizer.exe.config
+D:\Data\Git\Ghoraan\RunTextNormalizer\RunTextNormalizer\bin\Debug\RunTextNormalizer.exe
+D:\Data\Git\Ghoraan\RunTextNormalizer\RunTextNormalizer\bin\Debug\RunTextNormalizer.pdb
+D:\Data\Git\Ghoraan\RunTextNormalizer\RunTextNormalizer\bin\Debug\EntityFramework.dll
+D:\Data\Git\Ghoraan\RunTextNormalizer\RunTextNormalizer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Data\Git\Ghoraan\RunTextNormalizer\RunTextNormalizer\bin\Debug\EntityFramework.xml
+D:\Data\Git\Ghoraan\RunTextNormalizer\RunTextNormalizer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Data\Git\Ghoraan\RunTextNormalizer\RunTextNormalizer\obj\Debug\RunTextNormalizer.csprojResolveAssemblyReference.cache
+D:\Data\Git\Ghoraan\RunTextNormalizer\RunTextNormalizer\obj\Debug\RunTextNormalizer.exe
+D:\Data\Git\Ghoraan\RunTextNormalizer\RunTextNormalizer\obj\Debug\RunTextNormalizer.pdb

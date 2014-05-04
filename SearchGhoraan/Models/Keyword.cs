@@ -18,6 +18,7 @@ namespace SearchGhoraan.Models
         public int ChapterId { get; set; }
         public string Keyword1 { get; set; }
         public string NormalizedKeyword { get; set; }
+        public string NormalizedFarisKeyword { get; set; }
     
         public virtual Chapter Chapter { get; set; }
     }

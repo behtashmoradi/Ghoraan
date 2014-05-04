@@ -19,7 +19,8 @@ namespace SearchGhoraan.Controllers
         {
             List<SearchResult> lst = new List<SearchResult>();
             SearchEntities dbContext = new SearchEntities();
-            var items=dbContext.Keywords.Where(w => w.Keyword1.Contains(data.Word.Trim())||w.NormalizedKeyword.Contains(data.Word.Trim())).OrderBy(sec=>sec.Chapter.Section).ToList();
+            var items = dbContext.Keywords.Where(w => w.Keyword1.Contains(data.Word.Trim()) || w.NormalizedKeyword.Contains(data.Word.Trim()) || w.NormalizedFarisKeyword.Contains(data.Word.Trim()))
+                                         .OrderBy(sec => sec.Chapter.Section).ToList();
             foreach (var item in items)
             {
                 lst.Add(new SearchResult() {
