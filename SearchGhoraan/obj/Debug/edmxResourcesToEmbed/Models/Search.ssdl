@@ -16,6 +16,7 @@
     <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
     <Property Name="ChapterId" Type="int" Nullable="false" />
     <Property Name="Keyword" Type="nvarchar" MaxLength="500" Nullable="false" />
+    <Property Name="NormalizedKeyword" Type="nvarchar" MaxLength="500" />
   </EntityType>
   <Association Name="FK_Keyword_Chapter">
     <End Role="Chapter" Type="Self.Chapter" Multiplicity="1" />

@@ -5,3 +5,10 @@ D:\Data\behtash.visualstudio.com\SearchGhoraan\SearchGhoraan.Test\obj\Debug\Sear
 D:\Data\behtash.visualstudio.com\SearchGhoraan\SearchGhoraan.Test\bin\Debug\nunit.framework.dll
 D:\Data\behtash.visualstudio.com\SearchGhoraan\SearchGhoraan.Test\bin\Debug\nunit.framework.xml
 D:\Data\behtash.visualstudio.com\SearchGhoraan\SearchGhoraan.Test\obj\Debug\SearchGhoraan.Test.csprojResolveAssemblyReference.cache
+D:\Data\Git\Ghoraan\SearchGhoraan.Test\bin\Debug\SearchGhoraan.Test.dll
+D:\Data\Git\Ghoraan\SearchGhoraan.Test\bin\Debug\SearchGhoraan.Test.pdb
+D:\Data\Git\Ghoraan\SearchGhoraan.Test\bin\Debug\nunit.framework.dll
+D:\Data\Git\Ghoraan\SearchGhoraan.Test\bin\Debug\nunit.framework.xml
+D:\Data\Git\Ghoraan\SearchGhoraan.Test\obj\Debug\SearchGhoraan.Test.csprojResolveAssemblyReference.cache
+D:\Data\Git\Ghoraan\SearchGhoraan.Test\obj\Debug\SearchGhoraan.Test.dll
+D:\Data\Git\Ghoraan\SearchGhoraan.Test\obj\Debug\SearchGhoraan.Test.pdb

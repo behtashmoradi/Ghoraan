@@ -24,11 +24,12 @@
 @foreach (var item in Model) {
     <tr>
         <td>
-            @Html.DisplayFor(modelItem => item.ChapterId)
-        </td>
-        <td>
             @Html.DisplayFor(modelItem => item.sectionId)
         </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ChapterId)
+        </td>
+
         <td>
             @Html.DisplayFor(modelItem => item.Text)
         </td>
