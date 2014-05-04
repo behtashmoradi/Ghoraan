@@ -12,7 +12,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{D99B08
 		.nuget\packages.config = .nuget\packages.config
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunTextNormalizer", "..\SearchGhoraan\RunTextNormalizer\RunTextNormalizer\RunTextNormalizer.csproj", "{43F594C7-C5BB-4DBF-B885-985C72624379}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunTextNormalizer", "RunTextNormalizer\RunTextNormalizer\RunTextNormalizer.csproj", "{43F594C7-C5BB-4DBF-B885-985C72624379}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
